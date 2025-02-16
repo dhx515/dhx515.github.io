@@ -1,3 +1,7 @@
+```
+layout: single
+title: 01. git branch 전략
+```
 # 01. git branch 전략
 
 작성일: 241228  
